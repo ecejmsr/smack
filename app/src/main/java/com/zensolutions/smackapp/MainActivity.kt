@@ -49,7 +49,4 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun loginCreateUserBtnCicked(view: View){
-
-    }
 }
